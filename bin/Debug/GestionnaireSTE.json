@@ -1,0 +1,47 @@
+{
+  "montantAcqueris": 20.0,
+  "idSessionEnCours": "",
+  "sessionState": -1,
+  "donateurs": {
+    "DT0": {
+      "Email": "etienno.robert@hotmail.com",
+      "Cartecredits": [
+        {
+          "NumeroCarte": "1111111111111111",
+          "NumeroSecurite": "235",
+          "DateExpiration": "2022-11-25T16:53:02.1648493-05:00",
+          "TypeCarte": "V"
+        }
+      ],
+      "PtsPrix": 0,
+      "Prenom": "etienne",
+      "Nom": "robert",
+      "Telephone": "1111111111",
+      "Id": "DT0"
+    },
+    "DT2": {
+      "Email": "etienno.robert@hotmail.com",
+      "Cartecredits": [],
+      "PtsPrix": 0,
+      "Prenom": "etienne",
+      "Nom": "robert",
+      "Telephone": "5149903333",
+      "Id": "DT2"
+    }
+  },
+  "commanditaires": {},
+  "dons": [
+    {
+      "IdDon": "DON3",
+      "DateDon": "2022-11-25",
+      "Montant": 20.0,
+      "IdDonateur": "DT0",
+      "ValNbsPts": 0,
+      "NumeroCarteCredit": "1111111111111111"
+    }
+  ],
+  "prix": [],
+  "compteur": 4,
+  "MontantAcqueris": 20.0,
+  "SessionState": -1
+}

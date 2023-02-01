@@ -1,0 +1,440 @@
+C:\Users\jftru\source\repos\AppTelethon\bin\Debug\AppTelethon.exe.config
+C:\Users\jftru\source\repos\AppTelethon\bin\Debug\AppTelethon.exe
+C:\Users\jftru\source\repos\AppTelethon\bin\Debug\AppTelethon.pdb
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.Properties.Resources.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.exe
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.pdb
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormLogin.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormMenu.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormInfoDon.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormAffichageRapports.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormListeCommanditaires.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormListeDonateurs.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormListeDons.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormListePrix.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormObjectif.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormSommaireDon.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormDonateur.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormCommanditaire.resources
+C:\Users\jftru\source\repos\AppTelethon\obj\Debug\AppTelethon.FormPrix.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\bin\Debug\AppTelethon.exe.config
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\bin\Debug\AppTelethon.exe
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\bin\Debug\AppTelethon.pdb
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormAffichageRapports.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormCommanditaire.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormDonateur.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormInfoDon.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormPrix.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormListeCommanditaires.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormListeDonateurs.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormListeDons.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormListePrix.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormLogin.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormMenu.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormObjectif.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.FormSommaireDon.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.Properties.Resources.resources
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.exe
+C:\Users\druid\Desktop\AppTelethonV2\AppTelethonVer2\obj\Debug\AppTelethon.pdb
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\bin\Debug\AppTelethon.exe.config
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\bin\Debug\AppTelethon.exe
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\bin\Debug\AppTelethon.pdb
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormAffichageRapports.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormCommanditaire.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormDonateur.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormInfoDon.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormPrix.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormListeCommanditaires.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormListeDons.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormListePrix.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormLogin.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormMenu.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormObjectif.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.FormSommaireDon.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.Properties.Resources.resources
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.exe
+C:\Users\druid\Desktop\AppTelethonV3\AppTelethonV3\AppTelethonVer2\obj\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\AppTelethon.exe.config
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Buffers.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Memory.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Text.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.ValueTuple.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Buffers.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Memory.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Text.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\System.ValueTuple.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormAffichageRapports.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormInfoDon.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormListeCommanditaires.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormListeDons.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormListePrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormLogin.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormMenu.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormObjectif.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.FormSommaireDon.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.Properties.Resources.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.csproj.CopyComplete
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\obj\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV4\AppTelethonVer4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\AppTelethon.exe.config
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Buffers.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Memory.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Text.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.ValueTuple.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Buffers.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Memory.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Text.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\bin\Debug\System.ValueTuple.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_MenuList.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_AddDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_Commanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_Donnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_CarteCredit.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_ListCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_ListDons.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_ListPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.FormLogin.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.FormMenu.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_FindCreateCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_FindCreateDonnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_Objectif.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_ListDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.Properties.Resources.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.UserControl_ReclamerPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.csproj.CopyComplete
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV5\AppTelethonVer5\obj\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\AppTelethon.exe.config
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Buffers.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Memory.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Text.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.ValueTuple.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Buffers.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Memory.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Text.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\bin\Debug\System.ValueTuple.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_MenuList.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_AddDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_Commanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_Donnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_CarteCredit.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_ListCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_ListDons.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_ListPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.FormLogin.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.FormMenu.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_FindCreateCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_FindCreateDonnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_Objectif.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_ListDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.Properties.Resources.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.UserControl_ReclamerPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.csproj.CopyComplete
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV6\AppTelethonVer6\obj\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\AppTelethon.exe.config
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Buffers.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Memory.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Text.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.ValueTuple.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Buffers.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Memory.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Text.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\bin\Debug\System.ValueTuple.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_MenuList.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_AddDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_Commanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_Donnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_CarteCredit.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_ListCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_ListDons.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_ListPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.FormLogin.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.FormMenu.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_FindCreateCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_FindCreateDonnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_Objectif.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_ListDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.Properties.Resources.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_ReclamerPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.csproj.CopyComplete
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV7\AppTelethonVer8\obj\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_MenuList.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_AddDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_Commanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_Donnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_CarteCredit.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_ListCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_ListDons.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_ListPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.FormLogin.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.FormMenu.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_FindCreateCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_FindCreateDonnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_Objectif.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_ListDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.Properties.Resources.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.UserControl_ReclamerPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\AppTelethon.exe.config
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Buffers.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Memory.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Text.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.ValueTuple.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Buffers.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Memory.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Text.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\bin\Debug\System.ValueTuple.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonV8\AppTelethonVer8\obj\Debug\AppTelethon.csproj.CopyComplete
+C:\Users\druid\Desktop\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\druid\Desktop\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\druid\Desktop\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.exe
+C:\Users\druid\Desktop\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.pdb
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\AppTelethon.exe.config
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\AppTelethon.exe
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\AppTelethon.pdb
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\Newtonsoft.Json.dll
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Buffers.dll
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Memory.dll
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Numerics.Vectors.dll
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Text.Encodings.Web.dll
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Text.Json.dll
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.ValueTuple.dll
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\Newtonsoft.Json.xml
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Buffers.xml
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Memory.xml
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Numerics.Vectors.xml
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Text.Encodings.Web.xml
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Text.Json.xml
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AppTelethonVer9\AppTelethonVer9\bin\Debug\System.ValueTuple.xml
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.frmMission.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_MenuList.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_AddDonateur.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_Commanditaire.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_Donnateur.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_CarteCredit.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListCommanditaire.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListDons.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListPrix.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.FormLogin.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.FormMenu.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_FindCreateCommanditaire.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_FindCreateDonnateur.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_Objectif.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListDonateur.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.Properties.Resources.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ReclamerPrix.resources
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.csproj.CopyComplete
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.exe
+D:\AppTelethonVer9\AppTelethonVer9\obj\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\AppTelethon.exe.config
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Buffers.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Memory.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Text.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.ValueTuple.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Buffers.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Memory.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Text.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\bin\Debug\System.ValueTuple.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.frmMission.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_MenuList.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_AddDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_Commanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_Donnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_CarteCredit.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListDons.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.FormLogin.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.FormMenu.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_FindCreateCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_FindCreateDonnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_Objectif.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.Properties.Resources.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ReclamerPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.csproj.CopyComplete
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer48\AppTelethonVer9\obj\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\AppTelethon.exe.config
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\AppTelethon.pdb
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Buffers.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Memory.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Text.Json.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.ValueTuple.dll
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Buffers.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Memory.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Text.Json.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\bin\Debug\System.ValueTuple.xml
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.csproj.AssemblyReference.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.frmMission.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_MenuList.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_AddDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_Commanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_Donnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_CarteCredit.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListDons.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.FormLogin.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.FormMenu.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_FindCreateCommanditaire.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_FindCreateDonnateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_Objectif.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ListDonateur.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.Properties.Resources.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.UserControl_ReclamerPrix.resources
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.csproj.GenerateResource.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.csproj.CoreCompileInputs.cache
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.csproj.CopyComplete
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.exe
+C:\Users\Etienne\Desktop\Ecole\Session 3\Technique de realisation interface\Projet_Equipe_JF_Josee\AppTelethonVer10\AppTelethonVer9.2\AppTelethonVer9\obj\Debug\AppTelethon.pdb
